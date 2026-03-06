@@ -26,3 +26,9 @@ results.png – Visualization of prediction results
 ## Output
 
 The model analyzes rainfall patterns and predicts groundwater level variations.
+
+## Model Output
+
+![Prediction Result](result1.png)
+![Prediction Result](result2.png)
+![Prediction Result](result3.png)
